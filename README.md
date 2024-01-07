@@ -1,4 +1,4 @@
-# Project Name
+# Stock and Crypto Analyzer with ChatGPT and Whisper
 
 ## Description
 This is a brief description of what the Python project does. Explain the main purpose and functionality of the project, highlighting any unique features or important details.
